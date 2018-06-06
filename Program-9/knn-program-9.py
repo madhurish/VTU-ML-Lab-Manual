@@ -1,6 +1,6 @@
 '''
 VTU Lab-Manual for CBCS Scheme
-Machine Leaning Lab -15CSL7*
+Machine Leaning Lab -15CSL76
 k-means clustering on Iris Dataset
 '''
 #Import the Scikit-learn library
