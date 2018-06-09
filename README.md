@@ -1,7 +1,12 @@
 # VTU-ML-Lab-Manual
 
 ## The machine learning lab manual for VTU 7th sem CS students.
+Programs 1-4 and 10 are built without using any additional libraries, others mostly rely on Scikit-learn
+### Program -4:
+Artifitial Neural network with backpropagation (without using any libraries/APIs)
 
-Lab Programme 9 is ready. Python file is the actal code, the Jupyter nodebook is for reference/understanding
+### Program -6:
+Naive Bayes Classifier
 
-I'm working on the solution to VTU lab manual for Machine learning which will come to force from the academic semester August - 2019.
+## Program -9:
+KNN Algorithm
