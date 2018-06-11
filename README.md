@@ -8,5 +8,5 @@ Artifitial Neural network with backpropagation (without using any libraries/APIs
 ### Program -6:
 Naive Bayes Classifier
 
-## Program -9:
+### Program -9:
 KNN Algorithm
